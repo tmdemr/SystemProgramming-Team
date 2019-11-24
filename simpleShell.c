@@ -14,7 +14,7 @@
 #define MAX_CANON 256
 #define QUIT_STRING "q"
 #define BLANK_STRING " "
-#define PROMPT_STRING "[Team_6]SHELL>> "
+#define PROMPT_STRING "shell> "
 #define BACK_SYMBOL '&'
 
 void FileRedirect(char *s, int in, int out); //4번 파일 재지향
